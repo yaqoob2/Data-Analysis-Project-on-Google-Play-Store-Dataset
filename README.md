@@ -22,6 +22,7 @@ It is part of my data analysis training journey and simulates **real-world analy
 - **Jupyter Notebook** → Step-by-step experimentation and reporting  
 
 ---
+## 📂 Project Structure
 Data-Analysis-Project-on-Google-Play-Store-Dataset/
 │
 ├── data/ # dataset (CSV, cleaned versions, db if any)
@@ -72,4 +73,5 @@ This project combines exploratory data analysis (EDA), visual storytelling, and 
 📧 yaqoobahmed222@gmail.com
 🌐 www.linkedin.com/in/yaqoob-ahmed-44141b286
 
-## 📂 Project Structure  
+  
+
